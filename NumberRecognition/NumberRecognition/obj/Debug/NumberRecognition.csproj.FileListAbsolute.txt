@@ -1,0 +1,10 @@
+C:\Users\hmbd1\Desktop\RTU IT Lab\NumberRecognition\NumberRecognition\bin\Debug\NumberRecognition.exe.config
+C:\Users\hmbd1\Desktop\RTU IT Lab\NumberRecognition\NumberRecognition\bin\Debug\NumberRecognition.exe
+C:\Users\hmbd1\Desktop\RTU IT Lab\NumberRecognition\NumberRecognition\bin\Debug\NumberRecognition.pdb
+C:\Users\hmbd1\Desktop\RTU IT Lab\NumberRecognition\NumberRecognition\obj\Debug\NumberRecognition.csprojAssemblyReference.cache
+C:\Users\hmbd1\Desktop\RTU IT Lab\NumberRecognition\NumberRecognition\obj\Debug\NumberRecognition.Form1.resources
+C:\Users\hmbd1\Desktop\RTU IT Lab\NumberRecognition\NumberRecognition\obj\Debug\NumberRecognition.Properties.Resources.resources
+C:\Users\hmbd1\Desktop\RTU IT Lab\NumberRecognition\NumberRecognition\obj\Debug\NumberRecognition.csproj.GenerateResource.cache
+C:\Users\hmbd1\Desktop\RTU IT Lab\NumberRecognition\NumberRecognition\obj\Debug\NumberRecognition.csproj.CoreCompileInputs.cache
+C:\Users\hmbd1\Desktop\RTU IT Lab\NumberRecognition\NumberRecognition\obj\Debug\NumberRecognition.exe
+C:\Users\hmbd1\Desktop\RTU IT Lab\NumberRecognition\NumberRecognition\obj\Debug\NumberRecognition.pdb
